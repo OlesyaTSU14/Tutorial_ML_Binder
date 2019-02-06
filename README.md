@@ -4,7 +4,7 @@ These Tutorials have been adapted to run via [Binder](https://gitlab.cern.ch/oku
 
 ## Execute the Tutorials_ML example via Binder:
 
-Link [here](https://hub.mybinder.org/user/olesyatsu14-tutorial_ml_binder-i4bonns1/tree)
+Link [here](https://mybinder.org/v2/gh/OlesyaTSU14/Tutorial_ML_Binder/master)
 
 Download the 63 MB dataset: 
 
