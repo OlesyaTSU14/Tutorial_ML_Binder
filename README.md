@@ -1,6 +1,6 @@
 # Tutorial_ML
 
-These Tutorials have been adapted to run via [Binder](https://gitlab.cern.ch/okuchins/Tutorials_ML/tree/master) as a Jupiter notebooks.
+These Tutorials have been adapted to run via [Binder](https://mybinder.readthedocs.io/en/latest/) as a Jupiter notebooks.
 
 ## Execute the Tutorials_ML example via Binder:
 
