@@ -1,10 +1,10 @@
 # Tutorial_ML
 
-These Tutorials have been adapted to run via [Binder](https://mybinder.org/v2/gh/OlesyaTSU14/Tutorial_ML_Binder/master) as a Jupiter notebooks.
+These Tutorials have been adapted to run via [Binder](https://gitlab.cern.ch/okuchins/Tutorials_ML/tree/master) as a Jupiter notebooks.
 
 ## Execute the Tutorials_ML example via Binder:
 
-Link [here](https://hub.mybinder.org/user/olesyatsu14-tutorial_ml-znixs10b/tree#notebooks)
+Link [here](https://hub.mybinder.org/user/olesyatsu14-tutorial_ml_binder-i4bonns1/tree)
 
 Download the 63 MB dataset: 
 
