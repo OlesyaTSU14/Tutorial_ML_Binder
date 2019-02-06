@@ -1,6 +1,6 @@
 # Tutorial_ML
 
-These Tutorials have been adapted to run via [Binder](https://mybinder.readthedocs.io/en/latest/) as a Jupiter notebooks.
+These Tutorials have been adapted to run via [Binder](https://mybinder.org/v2/gh/OlesyaTSU14/Tutorial_ML_Binder/master) as a Jupiter notebooks.
 
 ## Execute the Tutorials_ML example via Binder:
 
